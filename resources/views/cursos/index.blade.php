@@ -13,4 +13,6 @@
         @endforeach
     </ul>
 
+    {{ $cursos->links() }}
+
 @endsection
